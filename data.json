@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Soundkiller",
+    "length": "1hr 30mins",
+    "url": "path/to/mp3",
+    "img": "path/to/img",
+    "tracks": [
+      "Track one \n",
+      "Track Two"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Crate Digging",
+    "length": "45mins",
+    "url": "path/to/mp3",
+    "img": "path/to/img",
+    "tracks": [
+      "Track a \n",
+      "Track b"
+    ]
+  }
+]
